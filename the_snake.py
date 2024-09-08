@@ -1,7 +1,8 @@
 """game snake."""
 import pygame as pg
 from random import randint
-#prosto proverk
+#prosto proverk 
+#esyo odna proverka
 
 # Константы для размеров поля и сетки:
 SCREEN_WIDTH: int = 640
